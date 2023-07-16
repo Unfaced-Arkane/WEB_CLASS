@@ -1,0 +1,41 @@
+<DOCTYPE html>
+  <html>
+     <head>
+  <title>Assingment2</title>
+     </head>
+  
+  
+  <body>
+    <form>
+	  <label for="fname">FIRST NAME</label>
+	      <input type="text" id"fname" name="fname">
+	
+	
+	<label for="lname">LAST NAME</label>
+	   <input type="text" id"lname" name="lname">
+	   
+	   
+	   
+	   
+	 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </html>
